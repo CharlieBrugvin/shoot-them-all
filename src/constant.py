@@ -2,7 +2,7 @@
 #size of the window, in pixel
 window_width = 1280#1024
 window_height = 720#576
-fullscreen = True
+fullscreen = False
 #number of columns
 nbColumn = 14
 
