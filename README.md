@@ -1,15 +1,16 @@
-**Faculty of information techonology - Brno University**
+# *Shoot them all game*
 
-Course : Mutimedia Master 1
-----------------------------
+I did this project as part of the "Multimedia" course at Brno University.
+We were free to code something using pictures, songs and animations. I decided to make a game.
 
-Project : *Space Invader like* game
-===================================
+**Note** : I have made another version as a web app. You can checkt its repo [here](https://github.com/CharlieBrugvin/shoot-them-all-game-webapp). (it is playable online [here](https://invader-2437c.web.app/game))
 
-Subject : Creation of program with pictures, songs and animations.
+to play, run in your terminal, from this folder :
+```
+python res/main.py
+```
 
-No technoglie constraint.
+You can read the full documentation [here](/documentation.pdf).
 
-Did with :
-  - Python
-  - Pygame
+ 
+
