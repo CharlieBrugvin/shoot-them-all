@@ -1,4 +1,4 @@
-# Shoot them all game : Game and architecture description
+# Shoot them all game : Report
 
 ## Introduction
 
