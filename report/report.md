@@ -1,4 +1,4 @@
-# Shoot them all game : Report
+# Shoot them all game
 
 ## Introduction
 
