@@ -8,7 +8,7 @@ to play, run in your terminal, from this folder :
 python res/main.py
 ```
 
-You can read the full documentation [here](/documentation.pdf).
+You can read the full presentation [here](report/report.md).
 
 Screenshot of the game :
 
