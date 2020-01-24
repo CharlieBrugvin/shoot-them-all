@@ -1,7 +1,8 @@
 # Shoot them all game
 
-I did this project as part of the **Multimedia** course at Brno University.
-We were free to code something using pictures, songs and animations. I decided to make a game.
+I have made this shoot them up game as part of the Multimedia course at Brno University. We were free to code something using pictures, songs and animations.
+
+I decided to make a game in Python and Pygame with Object-oriented programming paradigm. I designed the gameplay, the code and the pictures.
 
 to play, run in your terminal, from this folder :
 ```
